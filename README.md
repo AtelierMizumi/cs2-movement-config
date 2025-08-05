@@ -50,6 +50,7 @@ Valve decided to merge the beta branch featuring bhopping fix, reduce the interv
 
 | Key | Alias | Description |
 |-----|-------|-------------|
+| `Alt` | fps_max 200 64 | Toggle between 200 and 64 fps | 
 | `mouse4` | `+lj` | Long-jump |
 | `mouse5` | `+jb` | Jump-bug |
 | `mwheeldown` | `+jump_` | Enhanced jump (scroll down) |
