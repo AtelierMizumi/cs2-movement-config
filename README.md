@@ -31,7 +31,7 @@ The script provides several aliases for different movement types:
 
 ## The August 2nd CS2 Update
 
-Valve decided to merge the beta branch featuring bhopping fix, reduce the interval of velocity penalty. By limiting your fps to 64 using the fps_max 64 in CS2's console command, you can archieve 100% perf bhop, making bhop very consistent with velocity around 290-300 unit max (300 is the hard cap of movement speed). Ruby Rain's config provide a desync jump bind, this furthur enhance the chance of hitting perf.
+Valve decided to merge the beta branch featuring bhopping fix, reduce the interval of velocity penalty. By limiting your fps to 64 using the fps_max 64 in CS2's console command, you can archieve 100% perf bhop, making bhop very consistent with velocity around 290-300 unit max (300 is the hard cap of movement speed). Ruby Rain's config provide a de-subticked jump bind, this furthur enhance the chance of hitting perf.
 
 ## Installation
 
