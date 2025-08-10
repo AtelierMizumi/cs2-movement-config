@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=".github/cs2-logo.png" alt="Counter-Strike 2 Logo">
+    <img src=".github/cs2-logo.png" alt="Counter-Strike 2 Logo" style="object-fit: cover; object-position: center; height: 400px; clip-path: inset(200px 0 200px 0);">
 </div>
 
 <div align="center">
